@@ -1,0 +1,2 @@
+"paymentId","uid","planId","amount","currency","confirmedAt"
+"payment_001","abc123","economy",10,"USDT","2025-05-04T22:26:27.529Z"

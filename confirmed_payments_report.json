@@ -1,0 +1,10 @@
+[
+  {
+    "paymentId": "payment_001",
+    "uid": "abc123",
+    "planId": "economy",
+    "amount": 10,
+    "currency": "USDT",
+    "confirmedAt": "2025-05-04T22:26:27.529Z"
+  }
+]
